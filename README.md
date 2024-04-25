@@ -4,7 +4,8 @@
 3.[LAB-3](https://github.com/preethika2512/AIML-Lab-2024-2025-Batch11/blob/main/Lab03.ipynb)  
 4.[LAB-4](https://github.com/preethika2512/AIML-Lab-2024-2025-Batch11/blob/main/Lab04.ipynb)  
 5.[LAB-5](https://github.com/preethika2512/AIML-Lab-2024-2025-Batch11/blob/main/Lab05.ipynb)  
-6.[LAB-6](https://github.com/preethika2512/AIML-Lab-2024-2025-Batch11/blob/main/lab06%20(1).ipynb)
+6.[LAB-6](https://github.com/preethika2512/AIML-Lab-2024-2025-Batch11/blob/main/lab06%20(1).ipynb)  
+7.[LAB-7](https://github.com/preethika2512/AIML-Lab-2024-2025-Batch11/blob/main/LAB%20-7.ipynb)
 
 
 
